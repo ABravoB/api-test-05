@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: "test-02"
+  name: "api-test-05"
 spec:
   type: service
   owner: user:guest
